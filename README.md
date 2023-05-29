@@ -11,14 +11,14 @@ Both predict buy and sell using the logic from predictors' buy or sell
 We have used the back trader python library to develop BTBollingerBands.ipynb focusing Bollinger bands strategy and backtested results and file BTExponentialMovingAvgCrossOVER.ipynb for exponential moving averages without using neural network. 
 Neural networks need large data sets for better prediction. Other strategies, such as drip trip and coiled spring, didn't get results. 
 
-2) portfolo_manager 
+2) portfolio_manager 
  This module back-tests the portfolio for optimal weights.
  
 3) risk_manager 
   This module calculates the var at hand and compares returns with s&p 500 to keep track of the portfolio.
   
 4) installers 
-   This is to install the ta-lib technical analysis library in google collab 
+   This is to install the ta-lib technical analysis library in google cportfolio_managerportfolio_managerollab 
    
 5) dataloaders
    This module downloads data from yahoo finance etc. 

@@ -18,7 +18,7 @@ Neural networks need large data sets for better prediction. Other strategies, su
   This module calculates the var at hand and compares returns with s&p 500 to keep track of the portfolio.
   
 4) installers 
-   This is to install the ta-lib technical analysis library in google cportfolio_managerportfolio_managerollab 
+   This is to install the ta-lib technical analysis library in google collab 
    
 5) dataloaders
    This module downloads data from yahoo finance etc. 
